@@ -1,16 +1,3 @@
-# flutter_create_offline_music_player
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![anh 1](https://github.com/user-attachments/assets/578c5d9f-da50-43e5-8883-e034fdc2f639)
+![anh 3](https://github.com/user-attachments/assets/bfd3a536-28d2-4166-9019-3d071fd0c17e)
+![anh 2](https://github.com/user-attachments/assets/2e09b613-794e-4fde-8c76-8df11d5b6b78)
